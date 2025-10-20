@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: If you use this project, please cite it.
+title: H-Frame Drone for Cleaning Solar Panels and High-Rise Buildings
+authors:
+  - family-names: Mohan
+    given-names: Mohit
+  - family-names: Chaya
+    given-names: R
+  - family-names: Muthyala
+    given-names: Venu V
+date-released: 2025-01-01
+license: MIT
+repository-code: https://github.com/BlackPearl2003/h-frame-drone-cleaning

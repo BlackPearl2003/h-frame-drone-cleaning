@@ -1,0 +1,17 @@
+Category,Part,Qty,Link/PN,Notes
+Frame,H-frame skeleton,1,,
+Propulsion,Motor,8,,
+Propulsion,ESC,8,,
+Propulsion,Propeller (CW),4,,
+Propulsion,Propeller (CCW),4,,
+Electronics,Pixhawk 2.4.8,1,,
+Electronics,Power distribution board,1,,
+Electronics,Telemetry/GPS,1,,
+Sprayer,Diaphragm pump,1,~5 L/min
+Sprayer,Water tank (1 L),1,,
+Sprayer,Servo (metal gear),2,,
+Sprayer,Nozzle (fan),2,,
+Power,Battery (LiPo),1,,
+Power,BEC/Buck (for pump/servos),1,Separate from FCU 5V rail
+Wiring,Connectors & cables,1,,
+Mounts,Brackets & dampers,1,,
