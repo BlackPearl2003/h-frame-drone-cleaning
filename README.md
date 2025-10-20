@@ -1,6 +1,6 @@
 # H-Frame Drone for Cleaning Solar Panels and High-Rise Buildings
 
-**Authors:** Chaya R, Mohit Mohan, Venu V Muthyala  
+**Authors:** Mohit Mohan
 **Institution:** Nitte Meenakshi Institute of Technology (NMIT), Bengaluru  
 **Advisor:** Dr. Murthy M  
 **Academic Year:** 2024–25
